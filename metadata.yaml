@@ -1,0 +1,31 @@
+_repo: A-Handy-Guide-for-Beggars-Especially-Those-of-the-Poetic-Fraternity_67947
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lindsay, Vachel
+    alias: Lindsay, Nicholas Vachel
+    birthdate: 1879
+    deathdate: 1931
+    gutenberg_agent_id: '234'
+    url: http://www.gutenberg.org/2009/agents/234
+    wikipedia: https://en.wikipedia.org/wiki/Vachel_Lindsay
+description: ''
+gutenberg_issued: '2022-04-29'
+identifiers:
+  gutenberg: '67947'
+language: en
+pgterms:marc904: https://archive.org/details/handyguideforbeg00linduoft/mode/2up
+pgterms:marc905: 20210620164020lindsay
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: D A Alexander, David E. Browm, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was created from images of public domain
+  material made available by the University of Toronto Libraries.)
+publication_note: United States :The MacMillan Company,1916.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A Handy Guide for Beggars: Especially Those of the Poetic Fraternity'
+url: http://www.gutenberg.org/ebooks/67947

@@ -1,5 +1,8 @@
 _repo: A-Handy-Guide-for-Beggars-Especially-Those-of-the-Poetic-Fraternity_67947
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67947-h/images/cover.jpg
 creator:
   author:
     agent_name: Lindsay, Vachel
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/234
     wikipedia: https://en.wikipedia.org/wiki/Vachel_Lindsay
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67947#A-Handy-Guide-for-Beggars-Especially-Those-of-the-Poetic-Fraternity
 gutenberg_issued: '2022-04-29'
 identifiers:
   gutenberg: '67947'
